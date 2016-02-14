@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1449732256 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\main.cpp
+	<iostream>
+	"Menu.h"
+
+1449722573 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\include\menu.h
+	"Lista.h"
+	"Contacto.h"
+	"Menu.h"
+	"string"
+
+1449732958 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\include\lista.h
+	"Contacto.h"
+
+1449732699 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\include\contacto.h
+	<string>
+
+1449732117 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\src\archivo.cpp
+	"Archivo.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1449732434 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\include\archivo.h
+	"Diccionario.h"
+
+1449732986 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\include\diccionario.h
+	<string>
+	"Lista.h"
+
+1449732508 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\src\contacto.cpp
+	"Contacto.h"
+
+1449732940 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\src\diccionario.cpp
+	"Diccionario.h"
+	<iostream>
+
+1449733366 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\src\lista.cpp
+	"Lista.h"
+	"iostream"
+	<string>
+
+1449733160 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\agenda de contactos\src\menu.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	"Menu.h"
+	"Lista.h"
+	"Archivo.h"
+
+1449734225 source:c:\users\luism\desktop\agenda de contactos\main.cpp
+	<iostream>
+	"Menu.h"
+	"Diccionario.h"
+
+1449722573 c:\users\luism\desktop\agenda de contactos\include\menu.h
+	"Lista.h"
+	"Contacto.h"
+	"Menu.h"
+	"string"
+
+1449769501 c:\users\luism\desktop\agenda de contactos\include\lista.h
+	"Contacto.h"
+
+1449769625 c:\users\luism\desktop\agenda de contactos\include\contacto.h
+	<string>
+
+1449770212 source:c:\users\luism\desktop\agenda de contactos\src\archivo.cpp
+	"Archivo.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1449733781 c:\users\luism\desktop\agenda de contactos\include\archivo.h
+	"Diccionario.h"
+
+1449769567 c:\users\luism\desktop\agenda de contactos\include\diccionario.h
+	<string>
+	"Lista.h"
+
+1449769674 source:c:\users\luism\desktop\agenda de contactos\src\contacto.cpp
+	"Contacto.h"
+
+1449771383 source:c:\users\luism\desktop\agenda de contactos\src\diccionario.cpp
+	"Diccionario.h"
+	<iostream>
+
+1449733482 source:c:\users\luism\desktop\agenda de contactos\src\lista.cpp
+	"Lista.h"
+	"iostream"
+	<string>
+
+1449774209 source:c:\users\luism\desktop\agenda de contactos\src\menu.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	"Menu.h"
+	"Lista.h"
+	"Archivo.h"
+
+1449734225 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\main.cpp
+	<iostream>
+	"Menu.h"
+	"Diccionario.h"
+
+1449722573 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\include\menu.h
+	"Lista.h"
+	"Contacto.h"
+	"Menu.h"
+	"string"
+
+1449769501 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\include\lista.h
+	"Contacto.h"
+
+1449769625 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\include\contacto.h
+	<string>
+
+1449769567 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\include\diccionario.h
+	<string>
+	"Lista.h"
+
+1449769674 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\src\contacto.cpp
+	"Contacto.h"
+
+1449771383 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\src\diccionario.cpp
+	"Diccionario.h"
+	<iostream>
+
+1449733482 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\src\lista.cpp
+	"Lista.h"
+	"iostream"
+	<string>
+
+1449774209 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\src\menu.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	"Menu.h"
+	"Lista.h"
+	"Archivo.h"
+
+1449733781 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea4\agenda de contactos\include\archivo.h
+	"Diccionario.h"
+
